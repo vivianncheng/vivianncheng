@@ -1,7 +1,6 @@
 # Hi, I'm Vivian! 👋
 
-An innovative individual pursuing a Computer Science and Leadership & Management double major at Rutgers University. I am seeking opportunities to develop and contribute both technical and business skills to projects that drive meaningful impact.
-My passion lies in Computer Science, but I also find aspects of the business-side of corporations fascinating. I am looking to go into software development/IT or management consulting.
+I'm currently a student at Rutgers Business School, double majoring in Computer Science and Leadership & Management. I'm also the Founder of Sierra Bot, a utility chatbot on Discord (used in over 90,000 servers)!
 
 ## 🔗 Connect with me
 
